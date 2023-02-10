@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChuckNorrisTest</string>
+    <string name="chuck_norris_jokes">Chuck Norris Jokes</string>
+    <string name="next_joke_btn">Next Joke</string>
+    <string name="jokes">Chuck jokes</string>
+    <string name="logo_view">Logo view</string>
+
+</resources>
